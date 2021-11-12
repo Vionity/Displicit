@@ -1,0 +1,185 @@
+Vionity Open Restricted License v1.0
+Copyright (C) Vionity Ltd, 2021. Some rights reserved.
+
+
+THIS LICENSE IS PROPERTY OF VIONITY LTD. VIONITY LTD GRANTS
+YOU, AND ANY OTHER PERSON OR PARTY, A NON-EXCLUSIVE, NON
+SUBLICENSABLE, NON-TRANSFERABLE, ROYALTY-FREE LICENSE TO USE
+THIS LICENSE IN THEIR PROJECTS AND WORK UNDER THE FOLLOWING
+CONDITIONS:
+
+ - YOU MUST DISCLOSE THE SOURCE OF THIS LICENSE. YOU MAY DO
+   SO BY INCLUDING THE TEXT "LICENSE PROVIDED BY VIONITY.CO"
+   IN YOUR PROJECT'S CREDITS, OR BY USING THE ENTIRETY OF
+   THIS LICENSE, WHICH INCLUDES DETAILS ON THIS LICENSE'S
+   SOURCE;
+
+ - YOU MAY NOT MODIFY THE WORDING OF THIS LICENSE IN ANY
+   WAY WITHOUT THE PRIOR CONSENT OF VIONITY LTD. IF CONSENT
+   IS GRANTED, IT MAY BE REVOKED AT ANY TIME; AND
+
+ - YOU MAY NOT CLAIM AFFILIATION WITH VIONITY LTD.
+
+You may receive a copy of this license free-of-charge online
+at https://vionity.co/license/open-restricted-v1-0. If you
+have paid for this License, you should ask for your money
+back.
+
+
+--- INTRODUCTION ---
+
+This Vioniy Open Restricted License v1.0 (the "License") is
+designed to allow you to use the software or work this
+license applies to (the "Work") in an open manor. The author
+of the Work (the "Licensor") believes that software should be
+open and agrees that your usage of the Work shouldn't be
+unfairly restricted.
+
+This License protects the Work and governs your use of the
+Work, whilst attempting to keep your freedom intact. The
+wording of this License is provided to the Licensor by
+Vionity Ltd, but does not constitute an attorney-client
+relationship or legal advice.
+
+The term "Source Code" refers to any preferred form of the
+Work for making modifications to it, and any and all
+available documentation describing how to modify the Work, as
+optionally published by the Licensor.
+
+Text surrounded by asterisks ("*") are to be considered
+additional information, and do not constitute a part of the
+License.
+
+You may decide to use the Vionity Open Restricted License, or
+any other Vionity Open license on your own works and projects
+free-of-charge at https://vionity.co/license.
+
+Vionity Ltd is not a party in the licensing agreement this
+License creates between you and the Licensor.
+
+
+--- LICENSING ---
+
+*************************************************************
+* The author of this program or software believes in open   *
+* source technology, and would like to ensure your rights   *
+* to use this software are protected.                       *
+*************************************************************
+
+The Licensor hereby grants you a worldwide, non-exclusive,
+royalty-free, sublicensable license, for the duration of the
+Work's copyright protection to:
+
+ a) use, copy, adapt, share, distribute, modify, translate,
+    transmit, reproduce, broadcast and publicly display the
+    Work, including for commercial reasons;
+
+under the conditions of:
+
+ a) when transmitting, sharing, distributing, or otherwise
+    making the Work available, you must disclose the source
+    of which you received the Work (such as providing the
+    name of the Licensor, or the public code repository web
+    link at which the original Work can be found);
+
+ b) that you must disclose any modifications that you make
+    to the Work when transmitting, sharing, distributing, or
+    otherwise making the Work available, including in larger
+    or combined works, in a reasonable manor (such as in the
+    attribution notice explained in the ATTRIBUTION section);
+
+ c) transmitting, transferring, distributing or making the
+    Work, or any part of the Work, available over a computer
+    network is classed as distribution of the Work;
+
+ d) bundling or including this Work as a bundled library is
+    classed as distribution of the Work;
+
+ e) when incorporating the Work into a larger work, or
+    creating another work using the Work's source or binary
+    code, you must license the subsequent work(s) under the
+    Vionity Open Restricted License (version 1.0, or a later
+    version at your discretion), and make it publicly
+    available without a cost or charge of any kind; and
+
+ f) that you may not claim that you are endorsed or partnered
+    with the Licensor.
+
+This License does not restrict use of the Work that is
+protected under 'fair use' laws or regulations.
+
+
+--- ATTRIBUTION ---
+
+*************************************************************
+* Writing software takes time, so the author of this        *
+* software would like to be credited for the time and       *
+* effort they have put into the creation of this software.  *
+*************************************************************
+
+You must retain any and all copyright, trademark or License
+notices in the Work, including in its Source Code. Any
+subsequent works, including larger works, that you include
+any Source Code of the Work in must include a notice that
+discloses the source of the Work.
+
+A notice disclosing the source of the Work must include at
+least one of the following:
+
+ a) the name of the Licensor (a 'screen name' or 'username'
+    may also be used); or
+
+ b) a publicly accessible link to the original Work, as made
+    available by the Licensor.
+
+
+--- PATENTS ---
+
+The Licensor explicitly grants you a worldwide, non-
+exclusive, royalty-free, sublicensable license to, under any
+patent claims held by the Licensor that are embodied in the
+Work, for the remaining duration of the patents, to use,
+make, or otherwise make available, the Work.
+
+
+--- WARRANTIES ---
+
+THE WORK IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS
+WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. THIS
+INCLUDES THE WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE,
+MERCHANTABILITY, AND NON-INFRINGEMENT. USE OF THE WORK IS AT
+YOUR SOLE RISK. TO THE MAXIMUM EXTENT ALLOWED BY LAW, THE
+LICENSOR SHALL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR
+ANY WARRANTY CLAIMS RELATED TO THE WORK.
+
+
+--- LIABILITY ---
+
+TO THE MAXIMUM EXTENT ALLOWED BY LAW, THE LICENSOR SHALL NOT
+BE LIABLE TO YOU FOR: (A) ANY LOSS OF PROFIT; (B) ANY LOSS OF
+REVENUE, ANTICIPATED SAVINGS OR GOODWILL; OR (C) ANY INDIRECT
+OR CONSEQUENTIAL LOSS. NOTHING IN THIS AGREEMENT SHALL
+OPERATE TO EXLCUDE OR LIMIT THE LIABILITY OF THE LICENSOR FOR
+DEATH OR INJURY CAUSED BY ITS NEGLIGENCE OR FRAUD.
+
+
+--- GOVERNING LAW ---
+
+This License is governed by the laws of the Licensor's main
+place of residence or business, irrespective of any issues
+or conflicts. Any action or suit related to this License may
+be brought only in the courts of the aforementioned
+jurisdiction.
+
+
+--- SEVERABILITY ---
+
+If any part of this License is found to be invalid, void or
+unenforceable by a court of competent jurisdiction (as set
+out in the GOVERNING LAW section), the License shall be
+deemed modified to the minimum extent necessary to make it
+valid, legal and enforceable. If such modification is not
+possible or is illegally unfair, the relevant part shall be
+deemed deleted. Any modification to or deletion of such part
+under this clause shall not affect the validity and
+enforceability of the rest of this License.
